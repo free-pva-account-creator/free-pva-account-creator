@@ -1,0 +1,9 @@
+# Example configuration
+APP_ENV=development
+LOG_LEVEL=INFO
+
+# Test service configuration
+EMAIL_PROVIDER=
+SMS_PROVIDER=
+
+# Never put real credentials in this file.
