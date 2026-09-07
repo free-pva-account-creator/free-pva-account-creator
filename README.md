@@ -1,6 +1,5 @@
 # Free PVA Account Creator
-![Uploading ChatGPT Image Sep 7, 2026, 03_08_07 PM.png…]()
-
+"C:\Users\DK\Desktop\WHB\2 产品负责人阶段\PVACreator\Github\PVACreator Github banner.png"
 
 An open-source framework for building and testing phone-verified account creation workflows in authorized environments.
 
